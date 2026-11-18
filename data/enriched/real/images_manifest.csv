@@ -1,0 +1,64 @@
+id,file,width,height,orig_width,orig_height,source,source_path,source_class,source_subclass,md5,order
+i062,images/i062.jpg,512,288,1200,675,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/masks/masks 263.jpg,medical,masks,b4ba029be1fa5d810e2d3978c4da07b5,1
+i058,images/i058.jpg,512,343,530,355,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/gloves/gloves 12.jpg,medical,gloves,4ed70ea41ae8a0ad7af74ca5f1048313,2
+i001,images/i001.jpg,200,150,200,150,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 606.jpg,cardboard,cardboard,dd519508a8059c43ef22ca62ccf1e9b5,3
+i044,images/i044.jpg,300,300,300,300,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/spray cans/spray_cans 274.jpg,metal,spray cans,2af608a6c9a657448191280ea1623f8d,4
+i006,images/i006.jpg,400,400,400,400,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 1405.jpg,cardboard,cardboard,f4a32e67a427cbf9384e653decf3bad9,5
+i037,images/i037.jpg,501,512,840,859,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/beverage cans/beverage_cans 72.jpg,metal,beverage cans,d9269f6ae377c27ab8b4f87342e14fa1,6
+i017,images/i017.jpg,320,266,320,266,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper/paper 83.jpg,paper,paper,fd2f4591158ed1a8edb252653e3dc457,7
+i013,images/i013.jpg,512,326,640,407,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/news paper/news_paper 38.jpg,paper,news paper,6d457cf440d792a8bea1b43197db7c1e,8
+i026,images/i026.jpg,300,400,300,400,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 2239.jpg,glass,glass,6f3b74f737793490cc51364579cf8a87,9
+i061,images/i061.jpg,512,373,800,583,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/masks/masks 41.jpg,medical,masks,3cd3482107bde73aff7849d476131447,10
+i056,images/i056.jpg,512,512,512,512,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/cigarette butt/cigarette_butt 137.jpg,plastic,cigarette butt,5c8730952c7141c447921d29cce6b9af,11
+i010,images/i010.jpg,512,377,1300,957,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 1415.jpg,cardboard,cardboard,00384777410a95317f45e5daa6b683d7,12
+i041,images/i041.jpg,512,512,800,800,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/metal containers/metal_containers 166.jpg,metal,metal containers,950dfd8a0cd22c40de16c0c5611ee63a,13
+i014,images/i014.jpg,460,259,460,259,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper/paper 1019.jpg,paper,paper,f112072e98b31ddb830904b0db148a31,14
+i035,images/i035.jpg,512,375,1300,953,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/beverage cans/beverage_cans 467.jpg,metal,beverage cans,fbb3ea22f1a0d584a0ef766ab1c35123,15
+i050,images/i050.jpg,425,248,425,248,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic containers/plastic_containers 147.jpg,plastic,plastic containers,c668b7ff801074d199240d91bdea2aef,16
+i004,images/i004.jpg,94,512,236,1287,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 323.jpg,cardboard,cardboard,d331b2037e7d4bd821fbc231c5108c59,17
+i018,images/i018.jpg,250,250,250,250,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper cups/paper_cups 36.jpg,paper,paper cups,6422508aa728ad1b3ec4f909070863fd,18
+i049,images/i049.jpg,500,400,500,400,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic containers/plastic_containers 507.jpg,plastic,plastic containers,64229e6c3335248301ba341bf1cdb07d,19
+i009,images/i009.jpg,512,341,720,480,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 70.jpg,cardboard,cardboard,4a025d04dea1cc0db57c879a547318ed,20
+i007,images/i007.jpg,340,512,720,1083,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 756.jpg,cardboard,cardboard,2a45aac3c4d15995422c7640cd91a09a,21
+i034,images/i034.jpg,512,512,1960,1960,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 1180.jpg,glass,glass,a72a6d7a1f14c33b0fb386cbe9ff27bc,22
+i005,images/i005.jpg,512,377,1300,956,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 1516.jpg,cardboard,cardboard,13396d9742e2d4a25ebcc24fc3d44853,23
+i047,images/i047.jpg,250,250,250,250,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bottles/plastic_bottle 55.jpg,plastic,plastic bottles,cccf83180d60c2be89a9044529666815,24
+i020,images/i020.jpg,350,350,350,350,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper cups/paper_cups 367.jpg,paper,paper cups,bbdd82974e3ed8970c4308803a18cd9b,25
+i054,images/i054.jpg,488,488,488,488,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic cups/plastic_cups 32.jpg,plastic,plastic cups,05fb93c495e8ff697675d556db36b1b7,26
+i042,images/i042.jpg,300,300,300,300,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/spray cans/spray_cans 305.jpg,metal,spray cans,b9ed8b65243a8f01f10d9fbe61355c5c,27
+i055,images/i055.jpg,512,333,700,455,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic cups/plastic_cups 413.jpg,plastic,plastic cups,b8bac0a7c3e2adfaaf2bec37fc332528,28
+i032,images/i032.jpg,480,270,480,270,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 559.jpg,glass,glass,41d718dbb81fedb9219a83e94219e6eb,29
+i031,images/i031.jpg,512,342,640,428,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 383.jpg,glass,glass,c12afae4ce76ca11f7a5ebd9af223251,30
+i059,images/i059.jpg,340,270,340,270,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/gloves/gloves 271.jpg,medical,gloves,7e49e61209183b51c2cf4322e218ddb3,31
+i060,images/i060.jpg,512,337,718,472,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/gloves/gloves 283.jpg,medical,gloves,3ece71b2c64aa76349d30f4972d7d1cd,32
+i016,images/i016.jpg,512,341,626,417,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper/paper 195.jpg,paper,paper,fc3a4ea1ccf6a36ae61d1377feb6a36f,33
+i028,images/i028.jpg,300,300,300,300,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 51.jpg,glass,glass,3d6db2639ce4202dfc86a7fa9032a96c,34
+i027,images/i027.jpg,512,512,1100,1100,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 1990.jpg,glass,glass,df748be2b5360cb661a468b1126cddce,35
+i025,images/i025.jpg,512,512,550,550,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 1579.jpg,glass,glass,981e531858010441f95ea0147a1ae290,36
+i046,images/i046.jpg,512,342,1024,683,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bottles/plastic_bottle 366.jpg,plastic,plastic bottles,6c6cab5b307835e95590ae10674bc13a,37
+i012,images/i012.jpg,512,307,930,558,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/news paper/news_paper 32.jpg,paper,news paper,ed6f043929695987d40ac6a20b6f4d17,38
+i033,images/i033.jpg,375,500,375,500,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 923.jpg,glass,glass,15b2c97c46cc937d97a2fb1f9b3996bf,39
+i057,images/i057.jpg,512,512,512,512,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/cigarette butt/cigarette_butt 120.jpg,plastic,cigarette butt,a5590e0de61d80474ca847cfd8f34f21,40
+i045,images/i045.jpg,455,512,600,675,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bottles/plastic_bottle 531.jpg,plastic,plastic bottles,439c477449b9809ac1eeb11053d68216,41
+i038,images/i038.jpg,512,512,2400,2400,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/beverage cans/beverage_cans 37.jpg,metal,beverage cans,fb034e64eca28269f5f28d9faaf380b3,42
+i030,images/i030.jpg,512,341,4272,2848,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 3.jpg,glass,glass,5341ddd9e698c7b2c47d68832f57b797,43
+i048,images/i048.jpg,512,512,600,600,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic containers/plastic_containers 529.jpg,plastic,plastic containers,ba0c26e75b099714aa52ab40b582dd48,44
+i002,images/i002.jpg,300,300,300,300,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 1843.jpg,cardboard,cardboard,99d29bd3d0919db484af4e92ce7f61b8,45
+i022,images/i022.jpg,290,512,340,600,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/tetra pak/tetra_pak 628.jpg,paper,tetra pak,e48fd1287c09f70ef7233424f1c1f32e,46
+i003,images/i003.jpg,250,250,250,250,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 713.jpg,cardboard,cardboard,807ca807e4f46d90181d89127b6d16db,47
+i051,images/i051.jpg,500,500,500,500,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bags/plastic_bag 447.jpg,plastic,plastic bags,06e05cd10cb3f5e2e67803ab8c771679,48
+i040,images/i040.jpg,100,100,100,100,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/metal containers/metal_containers 407.jpg,metal,metal containers,71826acd839e730a92bb265709c4d0ef,49
+i036,images/i036.jpg,300,300,300,300,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/beverage cans/beverage_cans 598.jpg,metal,beverage cans,28d18fd39d491842484fbfbb95823d5f,50
+i024,images/i024.jpg,225,225,225,225,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/tetra pak/tetra_pak 73.jpg,paper,tetra pak,21804cc60a572b6f4ec13c58eddaff36,51
+i053,images/i053.jpg,509,339,509,339,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bags/plastic_bag 299.jpg,plastic,plastic bags,e2379d90f1ded3405b2f88aba3e5ad16,52
+i011,images/i011.jpg,512,288,1552,873,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/news paper/news_paper 30.jpg,paper,news paper,5db63e35e4e541fba2e828bd3617f91b,53
+i023,images/i023.jpg,340,255,340,255,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/tetra pak/tetra_pak 354.jpg,paper,tetra pak,0c85851539e6be15eb4266f60a7a2f24,54
+i019,images/i019.jpg,512,394,550,423,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper cups/paper_cups 297.jpg,paper,paper cups,303b3069798f013b2f1f14c7a183b3ad,55
+i063,images/i063.jpg,260,280,260,280,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/medical/masks/masks 405.jpg,medical,masks,f1f35a730175a8fe88b68e274901872f,56
+i021,images/i021.jpg,290,512,340,600,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/tetra pak/tetra_pak 215.jpg,paper,tetra pak,1b65e8d86cfacde3d4a981cd2a372901,57
+i008,images/i008.jpg,512,341,2073,1382,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/cardboard/cardboard 1772.jpg,cardboard,cardboard,be10a28141d10aa034ab2e26d78009c6,58
+i043,images/i043.jpg,350,350,350,350,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/spray cans/spray_cans 322.jpg,metal,spray cans,afa833f02ef11d148b2e9258c10afe4e,59
+i015,images/i015.jpg,320,171,320,171,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/paper/paper/paper 301.jpg,paper,paper,66a16d26ed1c8f6f6d94d41261506ab9,60
+i029,images/i029.jpg,512,341,626,417,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/glass/glass 541.jpg,glass,glass,1b55b5e2cc62814ebe21afb12bff0718,61
+i052,images/i052.jpg,512,341,626,417,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/plastic/plastic bags/plastic_bag 194.jpg,plastic,plastic bags,95a0d3ac85be2d4001bb785e1cfa7df4,62
+i039,images/i039.jpg,512,512,612,612,TrashBox (nikhilvenkatkumsetty/TrashBox),TrashBox_train_dataset_subfolders/metal/metal containers/metal_containers 164.jpg,metal,metal containers,478575e977ef08766f0bff3e98755312,63

@@ -1,0 +1,71 @@
+id,text,source,sampling,source_inappropriate
+t001,"А я все равно верю что меня где-то ждет другая жизнь, новая, без тягостного прошлого и самое обидное что я ничего не делаю чтобы в ту жизнь попасть.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t002,Часто слышу от тянПочему тебя волнует их мнение?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.76
+t003,"Прошел игру с полностью вкаченным одноручем 5 класса, кому ты заливаешь?","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t004,"Так просто скажут, чтобы побыстрей выполнит работу, или мне действительно не о чем беспокоиться?","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t005,думаю время покажет... любовь это или что... а так хочу пожелать терпения и удачи,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t006,Для литературного языка так говорить нельзя. Для научно-технического - можно.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t007,"Жакет его зовут, а его главная фраза в пуйдуе -","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.22
+t008,это самый сложный выбор в жизни каждого человека,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t009,Спасибо что напомнил с цветом разобраться. Через рандомайзер прогнал.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t010,Не рискуйте ускориться на тот свет,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t011,"Сойдёт. Вам произведут налоговый вычет только из того дохода, с которого был исчислен и удержан НДФЛ.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t012,"Да знал бы оп про дискордию, или скастовал бы хотя бы последние две цифры 23, то я бы и не бомбил сейчас.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t013,"фпс, не вышла, не играл.Классическое: зато мы, но не я лично.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t014,кто знает таких чуваков как yds24 только в северно-восточном казахстане?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t015,"Красиво сказано, хотя я бы выразился по-другому","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t016,Ссоры то из-за чего? Ведь в них вся суть.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t017,"Как то не особо люблю варенье, но если выбирать, то малиновое, вишневое и клубничное","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t018,"Ну их же можно найти, да и за недорого....: хороший, подделок там нет, не переживайте. Сама регулярно им пользуюсь. Да и на парфюмерном форуме они есть....","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t019,"Вау, спасибо.Тогда, наверное, на днях вернусь за ним.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t020,"Рада за невесту, бог отвел, спасибо водителю","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t021,Нормальный ноутбук с хорошим игровым процессором стоит от 50 тысяч...,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t022,"Мужики, чем тамевскую шпаклю можно разводить из подручных? Изо? Уайт-спирит?","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.67
+t023,ура. нашел все-таки. рада за тебя <3 и удачи тебе в трудах!,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t024,"Взрываются не от огурцов, а от криворукости","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t025,"ссылка на форум, все подробно описано:","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t026,"это супермозг, отрабатывающий какие-то схемы мироздания с помощью созданных органических и неорганических субъектов и, как любой мозг, действует на основании своих знаний и умений","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t027,Всем доброе утро. Написал стихотворение недавно. Как Вам оно?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t028,Судя по моей бабке а ей 89 курица рыба идёт на ура ...,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t029,"Какой классный сайт, жаль что только недавно узнал о нём! Целый день смеюсь. Спасибо вам! :-","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t030,"Вбросьте про виндоус не нужен, надо все на линуксе и сеть и сервер.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.09
+t031,"Очевидно что от класса зависит способности наносить дамаг, не зря же их делают пассивными\активными.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.27
+t032,. Можно.2. Не знаю.Мимо другой анон,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.05
+t033,Если передержать можно слюной захлебнутся. Другого вреда нет,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.09
+t034,"рада бы помочь, но ничего не увидела, скан плохой","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t035,"Нарезать на куски, обвалять в муке, обжарить, добавить в сковороду овощи, залить сметаной и тушить.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t036,"Окей, спасибо. В принципе, ты прав. Просто я только начал его использовать, вот и заморачиваюсь.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t037,"На выходных, если не поленюсь, сделаю по-быстрому выборку постов из пары чакротредов.Отпишусь сюда если таки сделаю.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t038,"был хорошимсмотрелся приятноТы уверен, что бугурт-тред должна открывать атмосфера красоты и гармонии?","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t039,"Есть такое приложение на ПК, которое может раздавать модем WIF через проводной интернет","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t040,Благодарю. Полагаю эсминцы в эскорте с вурфгератами?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.86
+t041,Как Выборочной коррекцией цвета из синего цвета сделать темно коричневый?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t042,Просто сейчас уже без анименяш никуда. И все хотят ушки.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t043,"Посмотрев это видео, научишься делать цветокоррекцию за 12 минут , не благодари","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t044,Причём тут эта текстура? Я вообще про весь вад. Он хуже чем оригинальный дум выглядит.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t045,Будут ли пробные экзамены ОГЭ у 8 классов в году март-апрель?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t046,"Приснился сон, помогите объяснить его значение!","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t047,"2-3 минуту на повседневный, на укладку дольше уходит.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t048,"не за чтоНу пусть за ""спасибо"" от общества посидят.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.78
+t049,"По какому порту веб-морда камеры находится, разумеется. Берёшь список наиболее часто используемых портов, чекаешь ответы по ним, проверяешь в ответах наличие вёрстки формы входа хиквижнаУже есть в Неске.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t050,Ты хоть и модница вроде но все равно классная,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t051,Что ждет девушку в будущем? Анна 08.05.97,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t052,"Все смотря как вы расстались. Я всех поздравляю всегда, исключение, только те люди, с кем неприятно растался","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t053,-Спасибо за инфу.Можем с тобой попытаться ворваться или разойтись.Что думаешь?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t054,"вот прошёл на инглише всё этотеперь я у мамы Виртуоз.кстати, это более верно характеризует меня.так что делайте на английском этот тест","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t055,"игра слов, в которой надо понять почему это именно так не знаю как объяснить понятнее, за этим и обращаюсь сюда","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.37
+t056,Я люблю нерафинированное .оно полезнее .,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t057,"Что изображено на фото? 8 букв, третья ""А"". Загадка для 5-6 класса. Судя по словам автора.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t058,Для того чтобы было всё хорошо нужно много денег,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.13
+t059,"Рассвет. Пора и мне отвалиться. Надеюсь, ещё увидимся.А Александр не понравился. Искры, жизни не хватило.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.12
+t060,"Я люблю тебя. Жаль что ты меня не знаешь, а я тебя очень даже. И жаль что мы не сможем встретиться","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t061,"пагоду матреть и влажности и всякая мура в ней впихата и не врет и много сразу собрать данные с разных датчиков-с балкона, подвала, оранжереи","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.22
+t062,Результат тестаЛогика: 20 балла из 30Эмоция: 13 балла из 30Физика: 9 балла из 30Воля: 12 балла из 30Предполагаемый тип: ЛЭВФ,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t063,В Ютубе много тренировок или спорт зал . Я занималась по программе в Ютубе gy vt и очень круто,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t064,работа прорекламирую что-либо в инстаграме более подписчиков .Не дорого. Срочно нужны деньги,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.05
+t065,"Н. Галь ""Слово живое и мертвое"". Ю. Вольф ""Школа литературного мастерства""","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t066,"режьте секатором начиная с вершины понемногу Если внутри сухая древесина, режте ниже и ниже. Нет живой? Все, идите покупать в сентябре новые саженцы.","skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t067,До Нового Года уже 9 днееей!!,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t068,Создайте отдельный класс и пропишите в нём все необходимые свойства.Затем просто применяйте его к /.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
+t069,Что за модель роутера или модема?,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",random,0.0
+t070,Что подарить маме на день рождения? Она увлекается садом и любит красивые цветы.,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",targeted,0.0
