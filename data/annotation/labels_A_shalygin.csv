@@ -1,0 +1,134 @@
+item_id,dataset,label,unsure,comment
+t001,rusentitweet,negative,0,
+t002,rusentitweet,neutral,0,
+t003,rusentitweet,negative,1,недоверие/сарказм к собеседнику («кому ты заливаешь») — негативная реакция
+t004,rusentitweet,neutral,0,
+t005,rusentitweet,speech,1,"начало — мнение, но главная функция — пожелание терпения и удачи"
+t006,rusentitweet,neutral,0,
+t007,rusentitweet,skip,0,"обрывок, без контекста смысл не восстановить"
+t008,rusentitweet,neutral,0,
+t009,rusentitweet,speech,0,
+t010,rusentitweet,neutral,1,предостережение-совет; эмоция не выражена
+t011,rusentitweet,neutral,0,
+t012,rusentitweet,negative,0,«бомбил» — раздражение автора
+t013,rusentitweet,skip,0,набор фраз без понятного смысла
+t014,rusentitweet,neutral,0,
+t015,rusentitweet,positive,0,«красиво сказано» преобладает над «хотя»
+t016,rusentitweet,neutral,0,
+t017,rusentitweet,neutral,1,предпочтения без выраженной эмоции
+t018,rusentitweet,positive,0,рекомендация из личного опыта — неявная положительная оценка
+t019,rusentitweet,speech,0,
+t020,rusentitweet,positive,1,«рада» + благодарность; преобладает радость за невесту
+t021,rusentitweet,neutral,0,
+t022,rusentitweet,neutral,0,
+t023,rusentitweet,speech,1,«рада за тебя» + «удачи» — по сути поздравление и пожелание
+t024,rusentitweet,negative,0,
+t025,rusentitweet,neutral,0,
+t026,rusentitweet,neutral,0,
+t027,rusentitweet,neutral,1,приветствие добавлено к информационному сообщению — правило codebook
+t028,rusentitweet,neutral,0,
+t029,rusentitweet,positive,0,"оценка «классный сайт», смех; благодарность вторична"
+t030,rusentitweet,neutral,1,призыв к троллингу без выраженной эмоции
+t031,rusentitweet,neutral,0,«класс» — термин игры
+t032,rusentitweet,neutral,0,
+t033,rusentitweet,neutral,0,
+t034,rusentitweet,neutral,1,"сожаление выражено слабо, по сути — информационный ответ"
+t035,rusentitweet,neutral,0,
+t036,rusentitweet,speech,0,
+t037,rusentitweet,neutral,0,
+t038,rusentitweet,skip,0,"слитный обрывок, тональность неясна"
+t039,rusentitweet,neutral,0,
+t040,rusentitweet,speech,1,благодарность + содержательный вопрос
+t041,rusentitweet,neutral,0,
+t042,rusentitweet,neutral,1,"возможная ирония, но тональность не выражена явно"
+t043,rusentitweet,positive,1,рекомендация видео — неявная положительная оценка
+t044,rusentitweet,negative,0,
+t045,rusentitweet,neutral,0,
+t046,rusentitweet,neutral,0,
+t047,rusentitweet,neutral,0,
+t048,rusentitweet,skip,0,"ироничный ответ, без контекста тональность неясна"
+t049,rusentitweet,neutral,0,
+t050,rusentitweet,positive,0,
+t051,rusentitweet,neutral,0,
+t052,rusentitweet,neutral,0,
+t053,rusentitweet,speech,1,благодарность + предложение
+t054,rusentitweet,positive,1,шутливое хвастовство результатом теста
+t055,rusentitweet,neutral,0,
+t056,rusentitweet,neutral,0,"совет о пользе, не эмоция"
+t057,rusentitweet,neutral,0,«класс» — школьный класс
+t058,rusentitweet,neutral,0,
+t059,rusentitweet,skip,1,"прощание + негативный отзыв, преобладающую тональность не определить"
+t060,rusentitweet,negative,0,«жаль» — грусть автора преобладает над признанием
+t061,rusentitweet,neutral,1,описание прибора с лёгкой похвалой
+t062,rusentitweet,neutral,0,
+t063,rusentitweet,positive,0,«очень круто»
+t064,rusentitweet,skip,0,реклама
+t065,rusentitweet,neutral,0,
+t066,rusentitweet,neutral,0,
+t067,rusentitweet,positive,0,"ожидание праздника, «!!»"
+t068,rusentitweet,neutral,0,
+t069,rusentitweet,neutral,0,
+t070,rusentitweet,neutral,0,
+i062,trashnet,trash,0,маска на асфальте
+i058,trashnet,trash,0,перчатка
+i001,trashnet,cardboard,0,
+i044,trashnet,metal,0,алюминиевый баллон
+i006,trashnet,cardboard,0,
+i037,trashnet,metal,0,
+i017,trashnet,paper,0,
+i013,trashnet,paper,0,
+i026,trashnet,glass,0,
+i061,trashnet,trash,0,маска
+i056,trashnet,trash,0,окурок
+i010,trashnet,cardboard,0,
+i041,trashnet,metal,1,жестяные банки; полоски этикеток вторичны
+i014,trashnet,exclude,0,"сковорода и книга — не отход, разные материалы, рука"
+i035,trashnet,metal,0,
+i050,trashnet,plastic,0,
+i004,trashnet,exclude,0,"полоса мелких картинок, предмет не виден"
+i018,trashnet,trash,0,бумажный стакан
+i049,trashnet,plastic,0,
+i009,trashnet,cardboard,0,
+i007,trashnet,exclude,0,детская поделка из картона
+i034,trashnet,glass,1,"стеклянные трубки, похоже на лабораторное стекло"
+i005,trashnet,exclude,0,"человек в кадре, одежда + коробка"
+i047,trashnet,plastic,0,
+i020,trashnet,trash,0,бумажный стакан
+i054,trashnet,plastic,1,"одноразовый стаканчик, стекло/пластик различить трудно"
+i042,trashnet,metal,0,
+i055,trashnet,plastic,0,
+i032,trashnet,glass,0,
+i031,trashnet,exclude,0,"производство, люди в кадре"
+i059,trashnet,trash,0,перчатка
+i060,trashnet,trash,1,перчатки на фоне коробки; главный объект — перчатки
+i016,trashnet,paper,0,
+i028,trashnet,glass,0,
+i027,trashnet,exclude,0,схема с размерами и надписями
+i025,trashnet,glass,1,стеклянный плафон лампы
+i046,trashnet,plastic,0,
+i012,trashnet,paper,0,
+i033,trashnet,exclude,0,ваза в интерьере — не отход
+i057,trashnet,exclude,1,"мелкий предмет в траве, материал не различить"
+i045,trashnet,plastic,0,
+i038,trashnet,metal,0,
+i030,trashnet,glass,0,
+i048,trashnet,plastic,0,
+i002,trashnet,exclude,0,рекламный постер с текстом
+i022,trashnet,trash,0,тетрапак
+i003,trashnet,cardboard,0,
+i051,trashnet,plastic,0,
+i040,trashnet,exclude,0,"рисунок, не фото"
+i036,trashnet,metal,0,
+i024,trashnet,trash,0,молочный пакет (комбинированный)
+i053,trashnet,plastic,0,
+i011,trashnet,paper,1,газета с иллюстрацией на цветном фоне
+i023,trashnet,exclude,1,тетрапак и стакан — разные материалы в кадре
+i019,trashnet,exclude,0,рекламный баннер с текстом
+i063,trashnet,trash,0,тканевая маска
+i021,trashnet,trash,0,тетрапак
+i008,trashnet,cardboard,0,
+i043,trashnet,metal,0,
+i015,trashnet,trash,1,"туалетная бумага — как салфетки, не перерабатывается"
+i029,trashnet,glass,0,
+i052,trashnet,plastic,0,
+i039,trashnet,metal,0,

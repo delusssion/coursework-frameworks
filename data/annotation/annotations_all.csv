@@ -1,0 +1,134 @@
+item_id,dataset,seq,text,asset_id,source,calibration,label_A_shalygin,unsure_A_shalygin,comment_A_shalygin,label_B_sokolov,unsure_B_sokolov,comment_B_sokolov,final
+t001,rusentitweet,1,"А я все равно верю что меня где-то ждет другая жизнь, новая, без тягостного прошлого и самое обидное что я ничего не делаю чтобы в ту жизнь попасть.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,negative,0,,negative,0,,negative
+t002,rusentitweet,2,Часто слышу от тянПочему тебя волнует их мнение?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,1,"вопрос без оценки, фрагмент склеен",neutral
+t003,rusentitweet,3,"Прошел игру с полностью вкаченным одноручем 5 класса, кому ты заливаешь?",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,negative,1,недоверие/сарказм к собеседнику («кому ты заливаешь») — негативная реакция,negative,1,недоверие/раздражение или нейтральный пересказ игры,negative
+t004,rusentitweet,4,"Так просто скажут, чтобы побыстрей выполнит работу, или мне действительно не о чем беспокоиться?",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,negative,1,"тревога в вопросе, возможно neutral",neutral
+t005,rusentitweet,5,думаю время покажет... любовь это или что... а так хочу пожелать терпения и удачи,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,speech,1,"начало — мнение, но главная функция — пожелание терпения и удачи",speech,1,"пожелание терпения и удачи, но есть содержательная часть",speech
+t006,rusentitweet,6,Для литературного языка так говорить нельзя. Для научно-технического - можно.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,0,,neutral
+t007,rusentitweet,7,"Жакет его зовут, а его главная фраза в пуйдуе -",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,skip,0,"обрывок, без контекста смысл не восстановить",skip,0,,skip
+t008,rusentitweet,8,это самый сложный выбор в жизни каждого человека,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,1,общее суждение без явной оценки,neutral
+t009,rusentitweet,9,Спасибо что напомнил с цветом разобраться. Через рандомайзер прогнал.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,speech,0,,speech,0,,speech
+t010,rusentitweet,10,Не рискуйте ускориться на тот свет,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,1,предостережение-совет; эмоция не выражена,neutral,1,"шутливый совет, возможно skip",neutral
+t011,rusentitweet,11,"Сойдёт. Вам произведут налоговый вычет только из того дохода, с которого был исчислен и удержан НДФЛ.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,0,,neutral
+t012,rusentitweet,12,"Да знал бы оп про дискордию, или скастовал бы хотя бы последние две цифры 23, то я бы и не бомбил сейчас.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,negative,0,«бомбил» — раздражение автора,negative,1,"досада/сожаление, контекст неясен",negative
+t013,rusentitweet,13,"фпс, не вышла, не играл.Классическое: зато мы, но не я лично.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,skip,0,набор фраз без понятного смысла,skip,1,смысл не восстановить без контекста,skip
+t014,rusentitweet,14,кто знает таких чуваков как yds24 только в северно-восточном казахстане?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,0,,neutral
+t015,rusentitweet,15,"Красиво сказано, хотя я бы выразился по-другому",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,positive,0,«красиво сказано» преобладает над «хотя»,positive,0,,positive
+t016,rusentitweet,16,Ссоры то из-за чего? Ведь в них вся суть.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,0,,neutral,0,,neutral
+t017,rusentitweet,17,"Как то не особо люблю варенье, но если выбирать, то малиновое, вишневое и клубничное",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,neutral,1,предпочтения без выраженной эмоции,neutral,1,"смешанное, личное предпочтение без сильной оценки",neutral
+t018,rusentitweet,18,"Ну их же можно найти, да и за недорого....: хороший, подделок там нет, не переживайте. Сама регулярно им пользуюсь. Да и на парфюмерном форуме они есть....",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,positive,0,рекомендация из личного опыта — неявная положительная оценка,positive,0,,positive
+t019,rusentitweet,19,"Вау, спасибо.Тогда, наверное, на днях вернусь за ним.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,speech,0,,speech,1,"вау+спасибо, главное благодарность",speech
+t020,rusentitweet,20,"Рада за невесту, бог отвел, спасибо водителю",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",1,positive,1,«рада» + благодарность; преобладает радость за невесту,positive,0,,positive
+t021,rusentitweet,21,Нормальный ноутбук с хорошим игровым процессором стоит от 50 тысяч...,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t022,rusentitweet,22,"Мужики, чем тамевскую шпаклю можно разводить из подручных? Изо? Уайт-спирит?",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t023,rusentitweet,23,ура. нашел все-таки. рада за тебя <3 и удачи тебе в трудах!,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,speech,1,«рада за тебя» + «удачи» — по сути поздравление и пожелание,positive,1,радость vs пожелание удачи (speech),speech
+t024,rusentitweet,24,"Взрываются не от огурцов, а от криворукости",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,negative,0,,negative,1,пренебрежительное суждение или нейтральный факт,negative
+t025,rusentitweet,25,"ссылка на форум, все подробно описано:",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,1,после удаления ссылки остаётся информационный анонс,neutral
+t026,rusentitweet,26,"это супермозг, отрабатывающий какие-то схемы мироздания с помощью созданных органических и неорганических субъектов и, как любой мозг, действует на основании своих знаний и умений",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t027,rusentitweet,27,Всем доброе утро. Написал стихотворение недавно. Как Вам оно?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,1,приветствие добавлено к информационному сообщению — правило codebook,neutral,1,приветствие добавлено к информации,neutral
+t028,rusentitweet,28,Судя по моей бабке а ей 89 курица рыба идёт на ура ...,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t029,rusentitweet,29,"Какой классный сайт, жаль что только недавно узнал о нём! Целый день смеюсь. Спасибо вам! :-",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,0,"оценка «классный сайт», смех; благодарность вторична",positive,0,,positive
+t030,rusentitweet,30,"Вбросьте про виндоус не нужен, надо все на линуксе и сеть и сервер.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,1,призыв к троллингу без выраженной эмоции,neutral,0,,neutral
+t031,rusentitweet,31,"Очевидно что от класса зависит способности наносить дамаг, не зря же их делают пассивными\активными.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,«класс» — термин игры,neutral,0,,neutral
+t032,rusentitweet,32,. Можно.2. Не знаю.Мимо другой анон,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,skip,0,,neutral
+t033,rusentitweet,33,Если передержать можно слюной захлебнутся. Другого вреда нет,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t034,rusentitweet,34,"рада бы помочь, но ничего не увидела, скан плохой",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,1,"сожаление выражено слабо, по сути — информационный ответ",negative,1,"сожаление, слабая эмоция",neutral
+t035,rusentitweet,35,"Нарезать на куски, обвалять в муке, обжарить, добавить в сковороду овощи, залить сметаной и тушить.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t036,rusentitweet,36,"Окей, спасибо. В принципе, ты прав. Просто я только начал его использовать, вот и заморачиваюсь.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,speech,0,,speech,1,"благодарность и согласие, есть пояснение",speech
+t037,rusentitweet,37,"На выходных, если не поленюсь, сделаю по-быстрому выборку постов из пары чакротредов.Отпишусь сюда если таки сделаю.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t038,rusentitweet,38,"был хорошимсмотрелся приятноТы уверен, что бугурт-тред должна открывать атмосфера красоты и гармонии?",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,skip,0,"слитный обрывок, тональность неясна",skip,0,,skip
+t039,rusentitweet,39,"Есть такое приложение на ПК, которое может раздавать модем WIF через проводной интернет",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t040,rusentitweet,40,Благодарю. Полагаю эсминцы в эскорте с вурфгератами?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,speech,1,благодарность + содержательный вопрос,speech,1,"благодарность, затем вопрос",speech
+t041,rusentitweet,41,Как Выборочной коррекцией цвета из синего цвета сделать темно коричневый?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t042,rusentitweet,42,Просто сейчас уже без анименяш никуда. И все хотят ушки.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,1,"возможная ирония, но тональность не выражена явно",neutral,1,возможно лёгкое недовольство,neutral
+t043,rusentitweet,43,"Посмотрев это видео, научишься делать цветокоррекцию за 12 минут , не благодари",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,1,рекомендация видео — неявная положительная оценка,skip,1,похоже на рекламу видео,skip
+t044,rusentitweet,44,Причём тут эта текстура? Я вообще про весь вад. Он хуже чем оригинальный дум выглядит.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,negative,0,,negative,0,,negative
+t045,rusentitweet,45,Будут ли пробные экзамены ОГЭ у 8 классов в году март-апрель?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t046,rusentitweet,46,"Приснился сон, помогите объяснить его значение!",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t047,rusentitweet,47,"2-3 минуту на повседневный, на укладку дольше уходит.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t048,rusentitweet,48,"не за чтоНу пусть за ""спасибо"" от общества посидят.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,skip,0,"ироничный ответ, без контекста тональность неясна",skip,1,ответ на благодарность и ирония без контекста,skip
+t049,rusentitweet,49,"По какому порту веб-морда камеры находится, разумеется. Берёшь список наиболее часто используемых портов, чекаешь ответы по ним, проверяешь в ответах наличие вёрстки формы входа хиквижнаУже есть в Неске.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t050,rusentitweet,50,Ты хоть и модница вроде но все равно классная,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,0,,positive,0,,positive
+t051,rusentitweet,51,Что ждет девушку в будущем? Анна 08.05.97,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,skip,0,,neutral
+t052,rusentitweet,52,"Все смотря как вы расстались. Я всех поздравляю всегда, исключение, только те люди, с кем неприятно растался",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t053,rusentitweet,53,-Спасибо за инфу.Можем с тобой попытаться ворваться или разойтись.Что думаешь?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,speech,1,благодарность + предложение,neutral,1,"благодарность в начале, суть предложение",neutral
+t054,rusentitweet,54,"вот прошёл на инглише всё этотеперь я у мамы Виртуоз.кстати, это более верно характеризует меня.так что делайте на английском этот тест",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,1,шутливое хвастовство результатом теста,positive,1,шутливое хвастовство,positive
+t055,rusentitweet,55,"игра слов, в которой надо понять почему это именно так не знаю как объяснить понятнее, за этим и обращаюсь сюда",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t056,rusentitweet,56,Я люблю нерафинированное .оно полезнее .,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,"совет о пользе, не эмоция",neutral,1,"совет, слабый positive",neutral
+t057,rusentitweet,57,"Что изображено на фото? 8 букв, третья ""А"". Загадка для 5-6 класса. Судя по словам автора.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,«класс» — школьный класс,neutral,0,,neutral
+t058,rusentitweet,58,Для того чтобы было всё хорошо нужно много денег,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t059,rusentitweet,59,"Рассвет. Пора и мне отвалиться. Надеюсь, ещё увидимся.А Александр не понравился. Искры, жизни не хватило.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,skip,1,"прощание + негативный отзыв, преобладающую тональность не определить",negative,1,"смешанное, преобладает неприятие",negative
+t060,rusentitweet,60,"Я люблю тебя. Жаль что ты меня не знаешь, а я тебя очень даже. И жаль что мы не сможем встретиться",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,negative,0,«жаль» — грусть автора преобладает над признанием,negative,0,,negative
+t061,rusentitweet,61,"пагоду матреть и влажности и всякая мура в ней впихата и не врет и много сразу собрать данные с разных датчиков-с балкона, подвала, оранжереи",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,1,описание прибора с лёгкой похвалой,skip,0,,neutral
+t062,rusentitweet,62,Результат тестаЛогика: 20 балла из 30Эмоция: 13 балла из 30Физика: 9 балла из 30Воля: 12 балла из 30Предполагаемый тип: ЛЭВФ,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,skip,0,,neutral
+t063,rusentitweet,63,В Ютубе много тренировок или спорт зал . Я занималась по программе в Ютубе gy vt и очень круто,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,0,«очень круто»,positive,0,,positive
+t064,rusentitweet,64,работа прорекламирую что-либо в инстаграме более подписчиков .Не дорого. Срочно нужны деньги,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,skip,0,реклама,skip,0,,skip
+t065,rusentitweet,65,"Н. Галь ""Слово живое и мертвое"". Ю. Вольф ""Школа литературного мастерства""",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,1,"список литературы, возможно skip",neutral
+t066,rusentitweet,66,"режьте секатором начиная с вершины понемногу Если внутри сухая древесина, режте ниже и ниже. Нет живой? Все, идите покупать в сентябре новые саженцы.",,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t067,rusentitweet,67,До Нового Года уже 9 днееей!!,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,positive,0,"ожидание праздника, «!!»",positive,1,предвкушение,positive
+t068,rusentitweet,68,Создайте отдельный класс и пропишите в нём все необходимые свойства.Затем просто применяйте его к /.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t069,rusentitweet,69,Что за модель роутера или модема?,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+t070,rusentitweet,70,Что подарить маме на день рождения? Она увлекается садом и любит красивые цветы.,,"skoltech-nlp/inappropriate-sensitive-topics, Version1/appropriateness/test.csv",0,neutral,0,,neutral,0,,neutral
+i062,trashnet,1,,images/i062.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,trash,0,маска на асфальте,trash,0,,trash
+i058,trashnet,2,,images/i058.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,trash,0,перчатка,trash,0,,trash
+i001,trashnet,3,,images/i001.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,cardboard,0,,cardboard,0,,cardboard
+i044,trashnet,4,,images/i044.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,metal,0,алюминиевый баллон,metal,0,,metal
+i006,trashnet,5,,images/i006.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,cardboard,0,,cardboard,0,,cardboard
+i037,trashnet,6,,images/i037.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,metal,0,,metal,0,,metal
+i017,trashnet,7,,images/i017.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,paper,0,,paper,0,,paper
+i013,trashnet,8,,images/i013.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,paper,0,,paper,0,,paper
+i026,trashnet,9,,images/i026.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,glass,0,,glass,1,"лабораторный флакон, стекло",glass
+i061,trashnet,10,,images/i061.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,trash,0,маска,trash,0,,trash
+i056,trashnet,11,,images/i056.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,trash,0,окурок,trash,0,,trash
+i010,trashnet,12,,images/i010.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,cardboard,0,,cardboard,0,,cardboard
+i041,trashnet,13,,images/i041.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,metal,1,жестяные банки; полоски этикеток вторичны,exclude,0,коллаж разных материалов,exclude
+i014,trashnet,14,,images/i014.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,exclude,0,"сковорода и книга — не отход, разные материалы, рука",exclude,1,"сковорода не отход, иллюстрация wikiHow",exclude
+i035,trashnet,15,,images/i035.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,metal,0,,metal,0,,metal
+i050,trashnet,16,,images/i050.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,plastic,0,,plastic,0,,plastic
+i004,trashnet,17,,images/i004.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,exclude,0,"полоса мелких картинок, предмет не виден",exclude,0,"коллаж, поделки и люди",exclude
+i018,trashnet,18,,images/i018.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,trash,0,бумажный стакан,trash,0,,trash
+i049,trashnet,19,,images/i049.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,plastic,0,,plastic,0,,plastic
+i009,trashnet,20,,images/i009.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),1,cardboard,0,,cardboard,0,,cardboard
+i007,trashnet,21,,images/i007.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,детская поделка из картона,exclude,0,поделка из картона,exclude
+i034,trashnet,22,,images/i034.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,1,"стеклянные трубки, похоже на лабораторное стекло",glass,1,"лабораторное стекло, возможно exclude",glass
+i005,trashnet,23,,images/i005.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,"человек в кадре, одежда + коробка",exclude,0,человек и вещи разных материалов,exclude
+i047,trashnet,24,,images/i047.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i020,trashnet,25,,images/i020.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,бумажный стакан,trash,0,,trash
+i054,trashnet,26,,images/i054.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,1,"одноразовый стаканчик, стекло/пластик различить трудно",plastic,1,"прозрачный стакан, пластик или стекло",plastic
+i042,trashnet,27,,images/i042.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,metal,0,,metal,0,,metal
+i055,trashnet,28,,images/i055.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i032,trashnet,29,,images/i032.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,0,,glass,0,,glass
+i031,trashnet,30,,images/i031.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,"производство, люди в кадре",exclude,0,люди и производство,exclude
+i059,trashnet,31,,images/i059.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,перчатка,trash,0,,trash
+i060,trashnet,32,,images/i060.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,1,перчатки на фоне коробки; главный объект — перчатки,trash,0,,trash
+i016,trashnet,33,,images/i016.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,paper,0,,paper,0,,paper
+i028,trashnet,34,,images/i028.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,0,,glass,1,"лабораторное стекло, не в работе",glass
+i027,trashnet,35,,images/i027.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,схема с размерами и надписями,exclude,0,схема с размерами,exclude
+i025,trashnet,36,,images/i025.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,1,стеклянный плафон лампы,glass,0,,glass
+i046,trashnet,37,,images/i046.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i012,trashnet,38,,images/i012.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,paper,0,,paper,0,,paper
+i033,trashnet,39,,images/i033.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,ваза в интерьере — не отход,exclude,0,декоративная ваза,exclude
+i057,trashnet,40,,images/i057.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,1,"мелкий предмет в траве, материал не различить",trash,1,"мелкий предмет в траве, вероятно фильтр окурка",exclude
+i045,trashnet,41,,images/i045.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i038,trashnet,42,,images/i038.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,metal,0,,metal,0,,metal
+i030,trashnet,43,,images/i030.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,0,,glass,0,,glass
+i048,trashnet,44,,images/i048.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i002,trashnet,45,,images/i002.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,рекламный постер с текстом,exclude,0,постер с текстом,exclude
+i022,trashnet,46,,images/i022.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,тетрапак,trash,0,,trash
+i003,trashnet,47,,images/i003.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,cardboard,0,,cardboard,0,,cardboard
+i051,trashnet,48,,images/i051.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i040,trashnet,49,,images/i040.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,"рисунок, не фото",metal,1,"маленькое фото, металлические контейнеры",exclude
+i036,trashnet,50,,images/i036.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,metal,0,,metal,0,,metal
+i024,trashnet,51,,images/i024.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,молочный пакет (комбинированный),trash,0,,trash
+i053,trashnet,52,,images/i053.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i011,trashnet,53,,images/i011.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,paper,1,газета с иллюстрацией на цветном фоне,exclude,1,"макет газеты, похож на иллюстрацию; иначе paper",paper
+i023,trashnet,54,,images/i023.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,1,тетрапак и стакан — разные материалы в кадре,exclude,1,тетрапак и стакан стекла разных материалов,exclude
+i019,trashnet,55,,images/i019.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,exclude,0,рекламный баннер с текстом,exclude,0,рекламный постер с текстом,exclude
+i063,trashnet,56,,images/i063.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,тканевая маска,trash,0,,trash
+i021,trashnet,57,,images/i021.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,0,тетрапак,trash,0,,trash
+i008,trashnet,58,,images/i008.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,cardboard,0,,cardboard,0,,cardboard
+i043,trashnet,59,,images/i043.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,metal,0,,metal,0,,metal
+i015,trashnet,60,,images/i015.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,trash,1,"туалетная бумага — как салфетки, не перерабатывается",trash,1,"туалетная бумага, как салфетки",trash
+i029,trashnet,61,,images/i029.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,glass,0,,glass,0,,glass
+i052,trashnet,62,,images/i052.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,plastic,0,,plastic,0,,plastic
+i039,trashnet,63,,images/i039.jpg,TrashBox (nikhilvenkatkumsetty/TrashBox),0,metal,0,,metal,1,"декоративная жестяная коробка, возможно exclude",metal

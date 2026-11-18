@@ -1,0 +1,145 @@
+{
+  "dataset": "trashnet",
+  "n_items": 63,
+  "annotators": {
+    "A_shalygin": {
+      "n_labeled": 63,
+      "distribution": {
+        "trash": 13,
+        "exclude": 12,
+        "plastic": 11,
+        "metal": 9,
+        "glass": 7,
+        "cardboard": 6,
+        "paper": 5
+      },
+      "unsure": 9
+    },
+    "B_sokolov": {
+      "n_labeled": 63,
+      "distribution": {
+        "trash": 14,
+        "exclude": 12,
+        "plastic": 11,
+        "metal": 9,
+        "glass": 7,
+        "cardboard": 6,
+        "paper": 4
+      },
+      "unsure": 11
+    }
+  },
+  "pairs": [
+    {
+      "a": "A_shalygin",
+      "b": "B_sokolov",
+      "n": 63,
+      "p_o": 0.9365,
+      "p_e": 0.1595,
+      "kappa": 0.9245,
+      "band": "почти полное",
+      "kappa_calibration": 0.9398,
+      "kappa_main": 0.9157,
+      "confusion": {
+        "cardboard": {
+          "cardboard": 6,
+          "paper": 0,
+          "glass": 0,
+          "metal": 0,
+          "plastic": 0,
+          "trash": 0,
+          "exclude": 0
+        },
+        "paper": {
+          "cardboard": 0,
+          "paper": 4,
+          "glass": 0,
+          "metal": 0,
+          "plastic": 0,
+          "trash": 0,
+          "exclude": 1
+        },
+        "glass": {
+          "cardboard": 0,
+          "paper": 0,
+          "glass": 7,
+          "metal": 0,
+          "plastic": 0,
+          "trash": 0,
+          "exclude": 0
+        },
+        "metal": {
+          "cardboard": 0,
+          "paper": 0,
+          "glass": 0,
+          "metal": 8,
+          "plastic": 0,
+          "trash": 0,
+          "exclude": 1
+        },
+        "plastic": {
+          "cardboard": 0,
+          "paper": 0,
+          "glass": 0,
+          "metal": 0,
+          "plastic": 11,
+          "trash": 0,
+          "exclude": 0
+        },
+        "trash": {
+          "cardboard": 0,
+          "paper": 0,
+          "glass": 0,
+          "metal": 0,
+          "plastic": 0,
+          "trash": 13,
+          "exclude": 0
+        },
+        "exclude": {
+          "cardboard": 0,
+          "paper": 0,
+          "glass": 0,
+          "metal": 1,
+          "plastic": 0,
+          "trash": 1,
+          "exclude": 10
+        }
+      },
+      "disagreements": [
+        {
+          "item_id": "i041",
+          "content": "images/i041.jpg",
+          "a": "metal",
+          "b": "exclude"
+        },
+        {
+          "item_id": "i057",
+          "content": "images/i057.jpg",
+          "a": "exclude",
+          "b": "trash"
+        },
+        {
+          "item_id": "i040",
+          "content": "images/i040.jpg",
+          "a": "exclude",
+          "b": "metal"
+        },
+        {
+          "item_id": "i011",
+          "content": "images/i011.jpg",
+          "a": "paper",
+          "b": "exclude"
+        }
+      ]
+    }
+  ],
+  "final_labels": {
+    "trash": 13,
+    "exclude": 13,
+    "plastic": 11,
+    "metal": 8,
+    "glass": 7,
+    "cardboard": 6,
+    "paper": 5
+  }
+}

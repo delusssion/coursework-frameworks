@@ -1,0 +1,147 @@
+{
+  "dataset": "rusentitweet",
+  "n_items": 70,
+  "annotators": {
+    "A_shalygin": {
+      "n_labeled": 70,
+      "distribution": {
+        "neutral": 42,
+        "positive": 9,
+        "speech": 7,
+        "negative": 6,
+        "skip": 6
+      },
+      "unsure": 16
+    },
+    "B_sokolov": {
+      "n_labeled": 70,
+      "distribution": {
+        "neutral": 37,
+        "skip": 10,
+        "negative": 9,
+        "positive": 9,
+        "speech": 5
+      },
+      "unsure": 26
+    }
+  },
+  "pairs": [
+    {
+      "a": "A_shalygin",
+      "b": "B_sokolov",
+      "n": 70,
+      "p_o": 0.8571,
+      "p_e": 0.3641,
+      "kappa": 0.7754,
+      "band": "существенное",
+      "kappa_calibration": 0.932,
+      "kappa_main": 0.6901,
+      "confusion": {
+        "positive": {
+          "positive": 8,
+          "negative": 0,
+          "neutral": 0,
+          "speech": 0,
+          "skip": 1
+        },
+        "negative": {
+          "positive": 0,
+          "negative": 6,
+          "neutral": 0,
+          "speech": 0,
+          "skip": 0
+        },
+        "neutral": {
+          "positive": 0,
+          "negative": 2,
+          "neutral": 36,
+          "speech": 0,
+          "skip": 4
+        },
+        "speech": {
+          "positive": 1,
+          "negative": 0,
+          "neutral": 1,
+          "speech": 5,
+          "skip": 0
+        },
+        "skip": {
+          "positive": 0,
+          "negative": 1,
+          "neutral": 0,
+          "speech": 0,
+          "skip": 5
+        }
+      },
+      "disagreements": [
+        {
+          "item_id": "t004",
+          "content": "Так просто скажут, чтобы побыстрей выполнит работу, или мне действительно не о чем беспокоиться?",
+          "a": "neutral",
+          "b": "negative"
+        },
+        {
+          "item_id": "t023",
+          "content": "ура. нашел все-таки. рада за тебя <3 и удачи тебе в трудах!",
+          "a": "speech",
+          "b": "positive"
+        },
+        {
+          "item_id": "t032",
+          "content": ". Можно.2. Не знаю.Мимо другой анон",
+          "a": "neutral",
+          "b": "skip"
+        },
+        {
+          "item_id": "t034",
+          "content": "рада бы помочь, но ничего не увидела, скан плохой",
+          "a": "neutral",
+          "b": "negative"
+        },
+        {
+          "item_id": "t043",
+          "content": "Посмотрев это видео, научишься делать цветокоррекцию за 12 минут , не благодари",
+          "a": "positive",
+          "b": "skip"
+        },
+        {
+          "item_id": "t051",
+          "content": "Что ждет девушку в будущем? Анна 08.05.97",
+          "a": "neutral",
+          "b": "skip"
+        },
+        {
+          "item_id": "t053",
+          "content": "-Спасибо за инфу.Можем с тобой попытаться ворваться или разойтись.Что думаешь?",
+          "a": "speech",
+          "b": "neutral"
+        },
+        {
+          "item_id": "t059",
+          "content": "Рассвет. Пора и мне отвалиться. Надеюсь, ещё увидимся.А Александр не понравился. Искры, жизни не хватило.",
+          "a": "skip",
+          "b": "negative"
+        },
+        {
+          "item_id": "t061",
+          "content": "пагоду матреть и влажности и всякая мура в ней впихата и не врет и много сразу собрать данные с разных датчиков-с балкона, подвала, оранжереи",
+          "a": "neutral",
+          "b": "skip"
+        },
+        {
+          "item_id": "t062",
+          "content": "Результат тестаЛогика: 20 балла из 30Эмоция: 13 балла из 30Физика: 9 балла из 30Воля: 12 балла из 30Предполагаемый тип: ЛЭВФ",
+          "a": "neutral",
+          "b": "skip"
+        }
+      ]
+    }
+  ],
+  "final_labels": {
+    "neutral": 43,
+    "positive": 8,
+    "negative": 7,
+    "speech": 6,
+    "skip": 6
+  }
+}

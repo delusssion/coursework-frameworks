@@ -1,0 +1,134 @@
+item_id,dataset,label,unsure,comment
+t001,rusentitweet,negative,0,
+t002,rusentitweet,neutral,1,"вопрос без оценки, фрагмент склеен"
+t003,rusentitweet,negative,1,недоверие/раздражение или нейтральный пересказ игры
+t004,rusentitweet,negative,1,"тревога в вопросе, возможно neutral"
+t005,rusentitweet,speech,1,"пожелание терпения и удачи, но есть содержательная часть"
+t006,rusentitweet,neutral,0,
+t007,rusentitweet,skip,0,
+t008,rusentitweet,neutral,1,общее суждение без явной оценки
+t009,rusentitweet,speech,0,
+t010,rusentitweet,neutral,1,"шутливый совет, возможно skip"
+t011,rusentitweet,neutral,0,
+t012,rusentitweet,negative,1,"досада/сожаление, контекст неясен"
+t013,rusentitweet,skip,1,смысл не восстановить без контекста
+t014,rusentitweet,neutral,0,
+t015,rusentitweet,positive,0,
+t016,rusentitweet,neutral,0,
+t017,rusentitweet,neutral,1,"смешанное, личное предпочтение без сильной оценки"
+t018,rusentitweet,positive,0,
+t019,rusentitweet,speech,1,"вау+спасибо, главное благодарность"
+t020,rusentitweet,positive,0,
+t021,rusentitweet,neutral,0,
+t022,rusentitweet,neutral,0,
+t023,rusentitweet,positive,1,радость vs пожелание удачи (speech)
+t024,rusentitweet,negative,1,пренебрежительное суждение или нейтральный факт
+t025,rusentitweet,neutral,1,после удаления ссылки остаётся информационный анонс
+t026,rusentitweet,neutral,0,
+t027,rusentitweet,neutral,1,приветствие добавлено к информации
+t028,rusentitweet,neutral,0,
+t029,rusentitweet,positive,0,
+t030,rusentitweet,neutral,0,
+t031,rusentitweet,neutral,0,
+t032,rusentitweet,skip,0,
+t033,rusentitweet,neutral,0,
+t034,rusentitweet,negative,1,"сожаление, слабая эмоция"
+t035,rusentitweet,neutral,0,
+t036,rusentitweet,speech,1,"благодарность и согласие, есть пояснение"
+t037,rusentitweet,neutral,0,
+t038,rusentitweet,skip,0,
+t039,rusentitweet,neutral,0,
+t040,rusentitweet,speech,1,"благодарность, затем вопрос"
+t041,rusentitweet,neutral,0,
+t042,rusentitweet,neutral,1,возможно лёгкое недовольство
+t043,rusentitweet,skip,1,похоже на рекламу видео
+t044,rusentitweet,negative,0,
+t045,rusentitweet,neutral,0,
+t046,rusentitweet,neutral,0,
+t047,rusentitweet,neutral,0,
+t048,rusentitweet,skip,1,ответ на благодарность и ирония без контекста
+t049,rusentitweet,neutral,0,
+t050,rusentitweet,positive,0,
+t051,rusentitweet,skip,0,
+t052,rusentitweet,neutral,0,
+t053,rusentitweet,neutral,1,"благодарность в начале, суть предложение"
+t054,rusentitweet,positive,1,шутливое хвастовство
+t055,rusentitweet,neutral,0,
+t056,rusentitweet,neutral,1,"совет, слабый positive"
+t057,rusentitweet,neutral,0,
+t058,rusentitweet,neutral,0,
+t059,rusentitweet,negative,1,"смешанное, преобладает неприятие"
+t060,rusentitweet,negative,0,
+t061,rusentitweet,skip,0,
+t062,rusentitweet,skip,0,
+t063,rusentitweet,positive,0,
+t064,rusentitweet,skip,0,
+t065,rusentitweet,neutral,1,"список литературы, возможно skip"
+t066,rusentitweet,neutral,0,
+t067,rusentitweet,positive,1,предвкушение
+t068,rusentitweet,neutral,0,
+t069,rusentitweet,neutral,0,
+t070,rusentitweet,neutral,0,
+i001,trashnet,cardboard,0,
+i002,trashnet,exclude,0,постер с текстом
+i003,trashnet,cardboard,0,
+i004,trashnet,exclude,0,"коллаж, поделки и люди"
+i005,trashnet,exclude,0,человек и вещи разных материалов
+i006,trashnet,cardboard,0,
+i007,trashnet,exclude,0,поделка из картона
+i008,trashnet,cardboard,0,
+i009,trashnet,cardboard,0,
+i010,trashnet,cardboard,0,
+i011,trashnet,exclude,1,"макет газеты, похож на иллюстрацию; иначе paper"
+i012,trashnet,paper,0,
+i013,trashnet,paper,0,
+i014,trashnet,exclude,1,"сковорода не отход, иллюстрация wikiHow"
+i015,trashnet,trash,1,"туалетная бумага, как салфетки"
+i016,trashnet,paper,0,
+i017,trashnet,paper,0,
+i018,trashnet,trash,0,
+i019,trashnet,exclude,0,рекламный постер с текстом
+i020,trashnet,trash,0,
+i021,trashnet,trash,0,
+i022,trashnet,trash,0,
+i023,trashnet,exclude,1,тетрапак и стакан стекла разных материалов
+i024,trashnet,trash,0,
+i025,trashnet,glass,0,
+i026,trashnet,glass,1,"лабораторный флакон, стекло"
+i027,trashnet,exclude,0,схема с размерами
+i028,trashnet,glass,1,"лабораторное стекло, не в работе"
+i029,trashnet,glass,0,
+i030,trashnet,glass,0,
+i031,trashnet,exclude,0,люди и производство
+i032,trashnet,glass,0,
+i033,trashnet,exclude,0,декоративная ваза
+i034,trashnet,glass,1,"лабораторное стекло, возможно exclude"
+i035,trashnet,metal,0,
+i036,trashnet,metal,0,
+i037,trashnet,metal,0,
+i038,trashnet,metal,0,
+i039,trashnet,metal,1,"декоративная жестяная коробка, возможно exclude"
+i040,trashnet,metal,1,"маленькое фото, металлические контейнеры"
+i041,trashnet,exclude,0,коллаж разных материалов
+i042,trashnet,metal,0,
+i043,trashnet,metal,0,
+i044,trashnet,metal,0,
+i045,trashnet,plastic,0,
+i046,trashnet,plastic,0,
+i047,trashnet,plastic,0,
+i048,trashnet,plastic,0,
+i049,trashnet,plastic,0,
+i050,trashnet,plastic,0,
+i051,trashnet,plastic,0,
+i052,trashnet,plastic,0,
+i053,trashnet,plastic,0,
+i054,trashnet,plastic,1,"прозрачный стакан, пластик или стекло"
+i055,trashnet,plastic,0,
+i056,trashnet,trash,0,
+i057,trashnet,trash,1,"мелкий предмет в траве, вероятно фильтр окурка"
+i058,trashnet,trash,0,
+i059,trashnet,trash,0,
+i060,trashnet,trash,0,
+i061,trashnet,trash,0,
+i062,trashnet,trash,0,
+i063,trashnet,trash,0,
