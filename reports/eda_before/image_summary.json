@@ -1,0 +1,23 @@
+{
+  "dataset": "trashnet_resized",
+  "n_images": 2527,
+  "n_corrupted": 0,
+  "n_classes": 6,
+  "class_counts": {
+    "cardboard": 403,
+    "glass": 501,
+    "metal": 410,
+    "paper": 594,
+    "plastic": 482,
+    "trash": 137
+  },
+  "imbalance_ratio_max_min": 4.34,
+  "unique_resolutions": 1,
+  "most_common_resolution": "512x384",
+  "brightness_mean": 0.6392,
+  "contrast_mean": 0.1936,
+  "colorfulness_mean": 0.1087,
+  "exact_duplicates_md5": 6,
+  "near_duplicate_pairs_phash": 28,
+  "near_duplicate_pairs_cross_class": 5
+}

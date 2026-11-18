@@ -1,0 +1,23 @@
+{
+  "dataset": "rusentitweet_full",
+  "n_rows": 13392,
+  "n_classes": 5,
+  "class_counts": {
+    "neutral": 5341,
+    "negative": 3298,
+    "positive": 2414,
+    "skip": 1843,
+    "speech": 496
+  },
+  "imbalance_ratio_max_min": 10.77,
+  "chars_median": 52.0,
+  "words_median": 6.0,
+  "share_with_url": 0.2095,
+  "share_with_mention": 0.596,
+  "share_with_emoji": 0.1775,
+  "share_empty_after_clean": 0.0004,
+  "vocab_size": 26136,
+  "exact_dup_rows": 0,
+  "normalized_dup_rows": 328,
+  "dup_groups_with_conflicting_labels": 38
+}
